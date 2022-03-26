@@ -15,6 +15,9 @@
 ## <b>Installation</b>
 
 ```
+
+✳️ cd
+✳️ rm -rf R-Mail-Crack
 ✳️ pkg update
 ✳️ pkg upgrade
 ✳️ pkg install python
